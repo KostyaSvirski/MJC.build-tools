@@ -1,10 +1,10 @@
 # Build Tool Gradle task
 
-## multi-project branch
+## gradle-multi-project
 
 * api
 * core
 
-## utils branch
+## gradle-task
 
 * utils-1.3.5
