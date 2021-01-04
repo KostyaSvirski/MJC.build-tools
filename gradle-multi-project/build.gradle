@@ -1,0 +1,21 @@
+
+plugins {
+    id 'java-library'
+}
+
+group = 'com.epam'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = JavaVersion.VERSION_1_8
+targetCompatibility = JavaVersion.VERSION_1_8
+
+repositories {
+    jcenter()
+}
+
+dependencies {}
+
+jar {
+    baseName('gradle-multi-project')
+    version('1.0')
+}
+
